@@ -10,5 +10,32 @@
 
 .header img {
   width: 250px;
-  padding: 75px 50px;
+  padding: 75px 25px;
+}
+/*Finish header style*/
+
+/*Start title style*/
+
+main {
+  padding-left: 25px;
+}
+.title h1 {
+  font-size: 70px;
+}
+
+.title p {
+  color:gray;
+  font-weight: 800;
+}
+
+.title p span  {
+  color: rgb(27, 167, 228);
+}
+
+.photo {
+  padding-top: 20px;
+}
+
+.photo p {
+ font-size: 12px;
 }
