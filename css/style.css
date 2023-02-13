@@ -48,6 +48,34 @@ article {
 .highlighter {
   background-color: yellow;
 }
+/*Start Table style */
 
+table {
+  width: 90%;
+  text-align: left;
+}
 
-/* Finihs article style */
+thead {
+  background-color: rgb(32, 169, 229);
+  color: white;
+  font-weight: 800;
+}
+
+td {
+  text-align: justify;
+  padding: 0px 5px;
+}
+
+.cell-one, .cell-two {
+  width: 20%;
+}
+
+.cell-three {
+  width: 60%;
+}
+
+.row-one, .row-three {
+  background-color: rgb(177, 229, 242);
+}
+
+/*Finish Table style */
